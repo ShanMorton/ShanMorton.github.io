@@ -7,7 +7,13 @@
  Origin is the remote side of the repo.
 
  git add <filename, filenames....>
+
  To add files to git
+ && git commit -m "CommitMESG"
 
  git rm -f <filename>
+
  To remove a file from git   th  -f is for "force"
+ && git commit -m "CommitMESG"
+
+ Need to have a commit mesg after each (adding or removing). &&
