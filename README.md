@@ -5,3 +5,9 @@
  available to others from your github repo.
 
  Origin is the remote side of the repo.
+
+ git add <filename, filenames....>
+ To add files to git
+
+ git rm -f <filename>
+ To remove a file from git   th  -f is for "force"
