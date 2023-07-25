@@ -18,5 +18,3 @@
 
  Need to have a commit mesg after each (adding or removing). &&
  To remove a file from git   the  -f is for "force"
-
- This line is to simulate a change done by another user.
