@@ -10,4 +10,6 @@
  To add files to git
 
  git rm -f <filename>
- To remove a file from git   th  -f is for "force"
+ To remove a file from git   the  -f is for "force"
+
+ This line is to simulate a change done by another user.
